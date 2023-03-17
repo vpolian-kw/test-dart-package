@@ -2,6 +2,9 @@ name: test_dart_package
 description: Test Dart package.
 publish_to: none
 
+directories:
+  lib: path/to/lib
+
 environment:
   sdk: ">=2.17.0 <3.0.0"
 
