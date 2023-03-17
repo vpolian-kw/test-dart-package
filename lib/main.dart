@@ -1,3 +1,3 @@
 library test_dart_package;
 
-const TEST_CONST = 123;
+export 'src/test.dart';
